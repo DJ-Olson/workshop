@@ -2,10 +2,10 @@
 
 DJ Olson
 
-##Informal Responses
+## Informal Responses
 
 1. Blumenstock (Jan. 28)
 
-###Formal Assignments
+### Formal Assignments
 
 1. Annotated Bibliography
