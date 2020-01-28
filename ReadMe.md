@@ -4,7 +4,7 @@ DJ Olson
 
 ## Informal Responses
 
-1. Blumenstock (Jan. 28)
+1. [Blumenstock Response] ()(Jan. 28)
 
 ### Formal Assignments
 
