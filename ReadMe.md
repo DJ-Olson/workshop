@@ -9,3 +9,12 @@ DJ Olson
 ### Formal Assignments
 
 1. Annotated Bibliography
+ - Problem Statement
+   - Harms
+   - Significance of Harms
+   - Inherent Nature of the Problem
+ - Selected LMIC or Region
+ - Dimension of Human Development
+ 
+2. Literature Review
+ 
