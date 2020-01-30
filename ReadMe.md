@@ -6,7 +6,7 @@ DJ Olson
 
 1. [Blumenstock Response](https://github.com/DJ-Olson/datawork/blob/master/Blumenstock.md) (Jan. 28)
 
-2. [Blumenstock Response](https://dj-olson.github.io/workshop/) (Jan. 30)
+2. [Blumenstock Response](https://dj-olson.github.io/workshop/blumenstock) (Jan. 30)
 
 
 ### Formal Assignments
