@@ -8,7 +8,7 @@ DJ Olson
 
 2. [Blumenstock Response](https://dj-olson.github.io/workshop/Blumenstock) (Jan. 30)
 
-3. [Jahan & Rosling Response]
+3. [Jahan & Rosling Response](https://github.com/DJ-Olson/workshop/blob/master/jahan_rosling.md) (Feb. 4)
 
 
 ### Formal Assignments
