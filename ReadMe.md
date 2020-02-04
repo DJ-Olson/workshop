@@ -10,6 +10,8 @@ DJ Olson
 
 3. [Jahan & Rosling Response](https://github.com/DJ-Olson/workshop/blob/master/jahan_rosling.md) (Feb. 4)
 
+4. [Jahan & Rosling Response](https://dj-olson.github.io/workshop/jahan_rosling) (Feb. 4)
+
 
 ### Formal Assignments
 
