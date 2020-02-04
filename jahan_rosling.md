@@ -1,6 +1,6 @@
-Jahan and Rosling Response 
-
-Feb 4. 
+# Jahan and Rosling Response
+DJ Olson
+2/04/20
 
 Just because a country is doing well, does not mean its citizens are prospering. Selim Jahan elaborated upon this idea in his talk which highlighted the importance on looking at real world situations from the prospective of the individual. Just because a country's government is thriving and large corporations are prosperous does not mean that the quality of life of the common citizen within the country is good. Instead Jahan stated that if we want to focus on human development, we should instead focus on the richness of life for human beings within a population, rather than measures of the countries wealth like GDP. To measure this we use Human Development Index or HDI. HDI takes into account many more measures that more accurately represent the quality of a persons life withing a country such as; health - life expectancy at birth, education - expected years schooling for school-age children and average years of schooling in the adult population, and income - measured by Gross National Income (GNI) per capita. Thus, if a country focuses more on the individual instead of the overall economy, quality of life with increase, and the economy will naturally follow suit.
 
