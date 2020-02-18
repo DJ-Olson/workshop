@@ -12,7 +12,7 @@ DJ Olson
 
 4. [Jahan & Rosling Response](https://dj-olson.github.io/workshop/jahan_rosling) (Feb. 4)
 
-5. [Barder Response](https://github.com/DJ-Olson/workshop/blob/master/Owen_Barder_Response) (Feb. 18)
+5. [Barder Response](https://github.com/DJ-Olson/workshop/blob/master/Owen_Barder_Response.md) (Feb. 18)
 
 
 ### Formal Assignments
