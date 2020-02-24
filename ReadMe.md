@@ -17,6 +17,8 @@ DJ Olson
 
 ## Formal Assignments
 
+1. [Annotated Bibliography]
+
 1. [Annotated Bibliography](https://dj-olson.github.io/workshop/AnnotatedBib) (Feb. 23)
  
 2. Literature Review
