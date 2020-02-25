@@ -16,7 +16,7 @@ DJ Olson
 
 6. [Anderson vs. Kitchens Response](https://github.com/DJ-Olson/workshop/blob/master/AndersonVsKitchens.md) (Feb. 25)
 
-7. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens)
+7. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens) (Feb. 25) 
 
 
 ## Formal Assignments
