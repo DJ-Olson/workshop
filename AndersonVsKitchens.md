@@ -1,8 +1,11 @@
 # Anderson vs. Kitchens Response
+DJ Olson 2/25/20
 
 ## Question
 
 In Anderson’s 2008 article he describes how the data deluge is serving to make the scientific theory obsolete. Kitchen provides a rebuttal to Anderson’s argument that theory is dead with his supposition that in fact we have entered a fourth paradigm. What do you think? Do you believe that theory is dead? Do you think we have indeed entered a paradigm shifting revolution for how we describe, analyze and understand the world?
+
+## Response
 
   Anderson seems to believe that the availability of data has made theory obsolete. This is because massive search engines with  analytical tools are able to return a massive amount of results based on searches. Oftentimes, statistics gathered through users of the database are able to interpret which sources are better in ways theory and human analysis could not. In essence his argument is that no theory of human behavior can describe why people do what they do. “The point is they do it, and we can track and measure it with unprecedented fidelity. With enough data, the numbers speak for themselves.” We simply have to monitor human behavior, and then through the data collected we will be able to predict and analyze trends to yield better results than any human derived theory or analysis could.
 
