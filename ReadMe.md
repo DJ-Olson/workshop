@@ -14,6 +14,8 @@ DJ Olson
 
 5. [Barder Response](https://github.com/DJ-Olson/workshop/blob/master/Owen_Barder_Response.md) (Feb. 18)
 
+6. [Anderson vs. Kitchens Response]
+
 
 ## Formal Assignments
 
