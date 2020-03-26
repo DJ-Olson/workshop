@@ -18,6 +18,8 @@ DJ Olson
 
 7. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens) (Feb. 25) 
 
+8. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26) 
+
 
 ## Formal Assignments
 
