@@ -4,19 +4,15 @@ DJ Olson
 
 ## Informal Responses
 
-1. [Blumenstock Response](https://github.com/DJ-Olson/datawork/blob/master/Blumenstock.md) (Jan. 28)
+1. [Blumenstock Response](https://dj-olson.github.io/workshop/Blumenstock) (Jan. 30)
 
-2. [Blumenstock Response](https://dj-olson.github.io/workshop/Blumenstock) (Jan. 30)
+2. [Jahan & Rosling Response](https://dj-olson.github.io/workshop/jahan_rosling) (Feb. 4)
 
-3. [Jahan & Rosling Response](https://github.com/DJ-Olson/workshop/blob/master/jahan_rosling.md) (Feb. 4)
+3. [Barder Response](https://github.com/DJ-Olson/workshop/blob/master/Owen_Barder_Response.md) (Feb. 18)
 
-4. [Jahan & Rosling Response](https://dj-olson.github.io/workshop/jahan_rosling) (Feb. 4)
+4. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens) (Feb. 25) 
 
-5. [Barder Response](https://github.com/DJ-Olson/workshop/blob/master/Owen_Barder_Response.md) (Feb. 18)
-
-7. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens) (Feb. 25) 
-
-8. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26) 
+5. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26) 
 
 
 ## Formal Assignments
