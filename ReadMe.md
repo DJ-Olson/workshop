@@ -14,7 +14,7 @@ DJ Olson
 
 5. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26)
 
-6. [Nieves_Response] (https://dj-olson.github.io/workshop/Nieves_Response) (March 30)
+6. [Nieves_Response](https://dj-olson.github.io/workshop/Nieves_Response) (March 30)
 
 
 
