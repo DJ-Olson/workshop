@@ -12,8 +12,9 @@ DJ Olson
 
 4. [Anderson vs. Kitchens Response](https://dj-olson.github.io/workshop/AndersonVsKitchens) (Feb. 25) 
 
-5. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26) 
+5. [Stevens Response](https://dj-olson.github.io/workshop/Stevens_Response) (March 26)
 
+6. [Nieves_Response] (https://dj-olson.github.io/workshop/Nieves_Response) (March 30)
 
 
 
