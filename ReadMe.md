@@ -27,6 +27,8 @@ DJ Olson
  
 2. [Literature Review](https://github.com/DJ-Olson/workshop/blob/master/Lit_Review.md) (April 5)
 
+2. [Literature Review](https://dj-olson.github.io/workshop/Lit_Review) (April 5)
+
 
 
  
