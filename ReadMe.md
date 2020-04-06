@@ -25,7 +25,8 @@ DJ Olson
 1. [Annotated Bibliography](https://dj-olson.github.io/workshop/AnnotatedBib) (Feb. 23)
  
  
-2. Literature Review
+2. [Literature Review](https://github.com/DJ-Olson/workshop/blob/master/Lit_Review.md) (April 5)
+
 
 
  
