@@ -1,4 +1,4 @@
-# The Untold Truth about the Favelas: A socioeconomic analysis of Rio.
+# The Untold Truth about the Favelas: A Socioeconomic Analysis of Rio.
 
 ## Introduction: 
 
