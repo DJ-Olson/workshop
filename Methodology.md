@@ -30,8 +30,9 @@ How MASUS actually works is by creating decision trees for theoretical agents wi
 
 One can also set up a MASUS model with a certain outcome predetermined in order to predict what decisions need to be made to achieve the chosen outcome. Flavia identified that economic inequality leads to segregation in São José dos Campos. Thus, a good MASUS model to use in Rio would be one with the goal of decreasing segregation. When running this model in Rio you could monitor if economic equality increases as segregation decreases. If this is the case, then you can go back to the decision tree and see what choices agents made in order to decrease segregation to see what methods of desegregation are most highly correlated with economic equality. This would help Rio’s government implement the most effective anti-segregation policies that would integrate and economically balance the city’s regions.
 
-### An example of a MASUS agent decision tree and shown below: 
-n
+### An example of a MASUS agent decision tree and how the agent is integrated into the larger model are shown below:
+![Screen Shot 2020-04-19 at 10 30 00 PM](https://user-images.githubusercontent.com/60228369/79708695-253dde80-828e-11ea-884a-6105f08ca42b.png)
+![Screen Shot 2020-04-19 at 10 29 48 PM](https://user-images.githubusercontent.com/60228369/79708697-266f0b80-828e-11ea-8b90-516582c9f542.png)
 
 
 ## Methodology 2 - Administrative territorial unit models to rate and monitor development levels of urban areas:
