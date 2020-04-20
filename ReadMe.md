@@ -30,5 +30,10 @@ DJ Olson
 2. [Literature Review](https://dj-olson.github.io/workshop/Lit_Review) (April 5)
 
 
+3. [Methodology](https://github.com/DJ-Olson/workshop/blob/master/Methodology.md) (April 19)
+
+3. [Methodology](https://dj-olson.github.io/workshop/Methodology) (April 19)
+
+
 
  
