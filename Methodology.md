@@ -14,7 +14,7 @@ In order to carry out this socioeconomic analysis I will use explanatory inquiry
 
 Before we breakdown the two methodologies I believe will most effectively analyze Rio’s socioeconomic status, it is important to have an image of what the problem looks like. Below is a map of the city of Rio, with the regions separated and categorized by average GDP per capita. It shows how Rio has developed economically from 1950-2010, but also shows how this development has not been equal among the regions. The Favelas (located in northern and central Rio) show very little progress, whereas the most urbanized parts of the city along the coast have continued to economically advance. 
 
-### Source 1
+### (Source 1)
 ![Screen Shot 2020-04-19 at 10 13 09 PM](https://user-images.githubusercontent.com/60228369/79708619-e871e780-828d-11ea-90f7-a6255cd83e28.png)
 
 ## Methodology 1 - Agent Based Simulations:
