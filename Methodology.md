@@ -57,3 +57,10 @@ Both methodologies have the potential to work if applied to Rio. However, no one
 Additionally, in the Russian study I would have liked to have had a more in depth explanation of how local indicators were chosen. I think that there needs to be further testing done to provide a method for choosing local indicators for a specific region. The local indicators used in the study may have been good for assessing the socioeconomic status of Russian regions, however, I assume the indicators necessary will change as the location of the assessment changes. 
 
 In closing, I believe that both of these methods will provide valuable insights into how to help Rio desegregate its regions by increasing socioeconomic equality. But, I wanted to be sure that it is recognized that much of this paper is theoretical. No assumptions can be confirmed until  these data science methods are actually tested in Rio. 
+
+## Bibliography: 
+1) Image 1 URL (can’t login to actually website to properly cite): https://www.researchgate.net/figure/Evolution-of-decennial-GDP-per-capita-in-the-Rio-de-Janeiro-State-municipalities-from_fig1_323100644
+
+2) Feitosa, Flávia F., et al. “Multi-Agent Simulator for Urban Segregation (MASUS): A Tool to Explore Alternatives for Promoting Inclusive Cities.” Computers, Environment and Urban Systems, Pergamon, 3 July 2010, www.sciencedirect.com/science/article/pii/S0198971510000608.
+
+3) AIP Conference Proceedings 1800, 050015 (2017). From:  https://doi.org/10.1063/1.4973075
