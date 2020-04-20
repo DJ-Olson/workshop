@@ -32,6 +32,7 @@ One can also set up a MASUS model with a certain outcome predetermined in order 
 
 ### Examples of a MASUS agent decision tree and how the agent is integrated into the larger model are shown below:
 ![Screen Shot 2020-04-19 at 10 30 00 PM](https://user-images.githubusercontent.com/60228369/79708695-253dde80-828e-11ea-884a-6105f08ca42b.png)
+
 ![Screen Shot 2020-04-19 at 10 29 48 PM](https://user-images.githubusercontent.com/60228369/79708697-266f0b80-828e-11ea-8b90-516582c9f542.png)
 
 
