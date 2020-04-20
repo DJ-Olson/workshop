@@ -21,7 +21,7 @@ The first geospatial model we will discuss is Flavia Feitosa’s MASUS simulatio
 
 Flavia created and tested MASUS using a three step approach, each one consisting of an experiment that built off the previous. 
 
-The first experiment compares simulated outputs that replicate a past segregation scenario in the city with empirical data, and tests whether the model can provide an adequate representation of segregation patterns as observed in São José dos Campos. The aim of the second experiment is to demonstrate how MASUS can be used to test theoretical issues of segregation, exploring the relationship between income inequalities, and the configuration of segregation patterns. The third experiment demonstrates the ability of MASUS to provide insights regarding the impact of social-mix policies.
+> The first experiment compares simulated outputs that replicate a past segregation scenario in the city with empirical data, and tests whether the model can provide an adequate representation of segregation patterns as observed in São José dos Campos. The aim of the second experiment is to demonstrate how MASUS can be used to test theoretical issues of segregation, exploring the relationship between income inequalities, and the configuration of segregation patterns. The third experiment demonstrates the ability of MASUS to provide insights regarding the impact of social-mix policies.
 
 In essence, the first experiment was a test to make sure MASUS worked, the second proved that economic inequality does lead to segregated communities, and the third tested its capabilities to predict future scenarios using different independent variables and explain certain outcomes.
 
