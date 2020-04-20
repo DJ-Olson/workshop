@@ -11,7 +11,8 @@ Integrating Rio’s communities is no easy task, however, I believe one effectiv
 In order to carry out this socioeconomic analysis I will use explanatory inquiry. The best way to understand why Rio is so segregated is by identifying the causes and effects of economic inequalities, and this is what explanatory inquiry sets out to do. To understand how to help regions, we need to understand what hurt them in the first place. We must learn from the city’s economic history to strive for a better future.
 
 ## Basic City Overview:
-![Rio Map](https://ibb.co/RYDjm4G)
+![Screen Shot 2020-04-19 at 10 13 09 PM](https://user-images.githubusercontent.com/60228369/79708619-e871e780-828d-11ea-90f7-a6255cd83e28.png)
+
 
 Before we breakdown the two methodologies I believe will most effectively analyze Rio’s socioeconomic status, it is important to have an image of what the problem looks like. Below is a map of the city of Rio, with the regions separated and categorized by average GDP per capita. It shows how Rio has developed economically from 1950-2010, but also shows how this development has not been equal among the regions. The Favelas (located in northern and central Rio) show very little progress, whereas the most urbanized parts of the city along the coast have continued to economically advance. 
 
