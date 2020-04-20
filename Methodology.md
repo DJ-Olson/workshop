@@ -14,6 +14,7 @@ In order to carry out this socioeconomic analysis I will use explanatory inquiry
 
 Before we breakdown the two methodologies I believe will most effectively analyze Rio’s socioeconomic status, it is important to have an image of what the problem looks like. Below is a map of the city of Rio, with the regions separated and categorized by average GDP per capita. It shows how Rio has developed economically from 1950-2010, but also shows how this development has not been equal among the regions. The Favelas (located in northern and central Rio) show very little progress, whereas the most urbanized parts of the city along the coast have continued to economically advance. 
 
+### Source 1
 ![Screen Shot 2020-04-19 at 10 13 09 PM](https://user-images.githubusercontent.com/60228369/79708619-e871e780-828d-11ea-90f7-a6255cd83e28.png)
 
 ## Methodology 1 - Agent Based Simulations:
@@ -30,7 +31,7 @@ How MASUS actually works is by creating decision trees for theoretical agents wi
 
 One can also set up a MASUS model with a certain outcome predetermined in order to predict what decisions need to be made to achieve the chosen outcome. Flavia identified that economic inequality leads to segregation in São José dos Campos. Thus, a good MASUS model to use in Rio would be one with the goal of decreasing segregation. When running this model in Rio you could monitor if economic equality increases as segregation decreases. If this is the case, then you can go back to the decision tree and see what choices agents made in order to decrease segregation to see what methods of desegregation are most highly correlated with economic equality. This would help Rio’s government implement the most effective anti-segregation policies that would integrate and economically balance the city’s regions.
 
-### Examples of a MASUS agent decision tree and how the agent is integrated into the larger model are shown below:
+### Examples of a MASUS agent decision tree and how the agent is integrated into the larger model are shown below. (Source 2)
 ![Screen Shot 2020-04-19 at 10 30 00 PM](https://user-images.githubusercontent.com/60228369/79708695-253dde80-828e-11ea-884a-6105f08ca42b.png)
 
 ![Screen Shot 2020-04-19 at 10 29 48 PM](https://user-images.githubusercontent.com/60228369/79708697-266f0b80-828e-11ea-8b90-516582c9f542.png)
@@ -42,7 +43,7 @@ The second methodology I have chosen is from a study conducted in Russia. It loo
  	
 The way this study was done was by surveying different regions of Russian cities, in order to provide a rating of socioeconomic development within these urban areas. Regions are broken down into Administrative Territorial Units (ATU’s) which are then subdivided further to create a hierarchy of local indicators. Thus, the models are able to provide explanatory indicators starting from a local level that scale up to encapsulate the region as a whole. Essentially the model uses a bottom up approach in order to show causes and effects of different variables at the local level, in order to piece together the more complex system that is the region as a whole. 
 
-### Below is a functional model of area assessment, which explains how an ATU rating is given. A basic breakdown of how a tree like this is assembled is also provided.
+### Below is a functional model of area assessment, which explains how an ATU rating is given. A basic breakdown of how a tree like this is assembled is also provided. (Source 3)
 ![Screen Shot 2020-04-19 at 9 33 01 PM](https://user-images.githubusercontent.com/60228369/79708821-836ac180-828e-11ea-83db-b489d086f903.png)
 
 
