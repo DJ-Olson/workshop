@@ -10,7 +10,7 @@ DJ Olson
 
 # Problem Statement:
 
-## Introduction:	
+### Introduction:	
 Nearly 1/2 of the world's population — more than 3 billion people — live on less than $2.50 a day. More than 1.3 billion live in extreme poverty — less than $1.25 a day. In my eyes, any issue that affects half of the world’s population is something that should be addressed. Obviously, my research will not be the first to address poverty, and it will certainly not be the last. However, I hope that by narrowing my focus to a small region and utilizing innovative data science methodologies it will at least provide a small step in the right direction. My research is focused around the human development goal of socioeconomic equality. The specific sustainable development goals associated with my topic are number 8: promote sustained, inclusive, and sustainable economic growth, full and productive employment, and decent work for all, and number 10: reduce inequality within and among countries. 
 Amartya Sen argues that human development is about the expansion of citizens' capabilities. He contends that by expanding the agency of citizens, a country will experience positive growth. Communities will integrate, cities will grow, and the economy will prosper, all because the citizens are put first. By this definition, Rio de Janeiro is failing. When people think of Rio, the images they often associate it with are sprawling beaches, beautiful greenery, and the famous Christ the Redeemer statue that watches over the city. What many people fail to recognize is many of the city’s residents suffer the effects of crippling poverty. 
 
@@ -44,7 +44,7 @@ Clearly the problems in the favelas need to be addressed, however, I think the e
 
 # Literature Review:
 
-## Introduction:
+### Introduction:
 In my methodology section I chose two data science methods that have not yet been applied in Rio, but I believe have the potential to help find solutions to socioeconomic inequality within the city. I briefly described both of the methods below and during the methodologies I talked about how each one could be applied in Rio, which I realize was wrong for the methodologies section, but can now be applied perfectly to my research proposal, thus, saving a lot of time now from past work. What needs to be added to the research proposal from my methodologies section is diving deeper into gaps in the literature, which I will do after describing each of my two selected methods and stating how I believe them to be applicable to Rio.
 
 ## Methodology 1 - Agent Based Simulations:
@@ -87,7 +87,7 @@ Additionally, in the Russian study I think there needs to be a more in depth exp
 
 # Research Proposal:
 
-## Introduction:
+### Introduction:
 I have spent the past semester learning about and researching socioeconomic inequality, and studying the ins and outs of Rio’s economy. In doing so I have found a number of methodologies adequate for analyzing and hypothesizing solutions to economic inequality, however, none have been applied to Rio. My goal the entire semester has been to desegregate the favelas, and in doing so, I believe socioeconomic equality will follow. My prediction was further solidified by the MASUS model which links desegregation to economic equality in a city neighboring Rio. Now my plan moving forward is to test this MASUS model in Rio by researching the necessary changes to make the simulation’s predictions valid, and couple this MASUS model with a methodology that will create the ATU’s I previously talked about. 
 
 One of the most important shifts I made this semester was including studies conducted outside Brazil to find data science methods applicable to Rio. Originally I picked the human development topic of socioeconomic inequality, and only looked at sources relating to Rio because this seemed the most logical. However, I learned that if I have a narrow enough topic, I can still focus on Rio, but use studies and data science methods from around the world. Applications of data science are not constrained to the regions from which they originated. I want to find the best solution to the problem, thus, I am looking at proven solutions from other places and trying to find the best ways to combine them to create a mesh of proven methodologies that will hopefully work in Rio. 
