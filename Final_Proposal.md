@@ -71,8 +71,7 @@ The second methodology I have chosen is from a study conducted in Russia. It loo
 The way this study was done was by surveying different regions of Russian cities, in order to provide a rating of socioeconomic development within these urban areas. Regions are broken down into Administrative Territorial Units (ATU’s) which are then subdivided further to create a hierarchy of local indicators. Thus, the models are able to provide explanatory indicators starting from a local level that scale up to encapsulate the region as a whole. Essentially the model uses a bottom up approach in order to show causes and effects of different variables at the local level, in order to piece together the more complex system that is the region as a whole. 
 
 Below is a functional model of area assessment, which explains how an ATU rating is given. A basic breakdown of how a tree like this is assembled is also provided.
-
-(Insert Image)
+![Screen Shot 2020-04-19 at 9 33 01 PM](https://user-images.githubusercontent.com/60228369/79708821-836ac180-828e-11ea-83db-b489d086f903.png)
 
 
 ## How this method could be applied in Rio:
