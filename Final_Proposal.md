@@ -63,7 +63,7 @@ One can also set up a MASUS model with a certain outcome predetermined in order 
 
 An example of a MASUS agent decision tree and shown below as well as the larger system that take:
 ![Screen Shot 2020-04-19 at 10 30 00 PM](https://user-images.githubusercontent.com/60228369/79708695-253dde80-828e-11ea-884a-6105f08ca42b.png)
-
+![Screen Shot 2020-04-19 at 10 29 48 PM](https://user-images.githubusercontent.com/60228369/79708697-266f0b80-828e-11ea-8b90-516582c9f542.png)
 
 ## Methodology 2 - Administrative territorial unit models to rate and monitor development levels of urban areas:
 The second methodology I have chosen is from a study conducted in Russia. It looked at ways for the government to monitor the socioeconomic development of urban areas. This study was done with the purpose of figuring out how to improve real estate value in certain areas to increase investor interest within these regions. However, I believe the method can be tweaked to help reach our goal of economic equality Rio. 
