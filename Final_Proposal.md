@@ -118,9 +118,15 @@ To conclude my proposal, I know this committee is receiving upwards of 30 resear
 
 ### Sources:
 1) Skidmore, Thomas. “Brazil: Five Centuries of Change.” Brazil Five Centuries of Change, Center for Latin American and Caribbean Studies, Brown University, 2010. From: library.brown.edu/create/fivecenturiesofchange/chapters/chapter-9/favelas-in-rio-de-janeiro-past-and-present/.
+
 2) Catalytic Communities. “Rio Favela Facts.” CatComm. Accessed February 24, 2020. From: https://catcomm.org/favela-facts/.
+
 3) Image 1 URL (can’t login to actually website to properly cite): https://www.researchgate.net/figure/Evolution-of-decennial-GDP-per-capita-in-the-Rio-de-Janeiro-State-municipalities-from_fig1_323100644
+
 4) Feitosa, Flávia F., et al. “Multi-Agent Simulator for Urban Segregation (MASUS): A Tool to Explore Alternatives for Promoting Inclusive Cities.” Computers, Environment and Urban Systems, Pergamon, 3 July 2010, www.sciencedirect.com/science/article/pii/S0198971510000608.
+
 5) AIP Conference Proceedings 1800, 050015 (2017). From:  https://doi.org/10.1063/1.4973075
+
 6) Sajjad, Mazhar. “A Data-Driven Approach for Agent-Based Modeling: Simulating the Dynamics of Family Formation.” Jasss.soc.surrey.ac.uk, 2016, jasss.soc.surrey.ac.uk/19/1/9.html.
+
 7) Ren, Yi, et al. “Predicting Socio-Economic Levels of Urban Regions via Offline and Online Indicators.” PloS One, Public Library of Science, 10 July 2019. From: www.ncbi.nlm.nih.gov/pmc/articles/PMC6619744/.
