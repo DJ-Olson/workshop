@@ -27,7 +27,7 @@ Now that the lack of development in the favelas is clearly displayed, it is impo
 
 Below is an image of the favelas, which shows how they were created without much of a plan, and are not structured well to promote desegregation.
 
-![download](https://user-images.githubusercontent.com/60228369/81872676-33f37a80-9548-11ea-8289-30e6957ac052.jpg)
+![unnamed](https://user-images.githubusercontent.com/60228369/81872758-656c4600-9548-11ea-9326-708a3de54754.jpg)
 
 ## Why is it a Complex Human Development Problem?
 From the description and the image above, the favelas may seem like a part of Rio that would be resented by all, especially their residents. This would mean that the changes I am proposing would be widely accepted. However, what makes this a complex human development problem is the fact that so many of Rio’s poor residents rely upon the social hierarchy that has developed within the favelas to survive. Any drastic change or desegregation attempt is undoubtedly going to be met with extreme backlash. This was especially well highlighted in the film The City of God. 
