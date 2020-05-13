@@ -34,6 +34,8 @@ DJ Olson
 
 3. [Methodology](https://dj-olson.github.io/workshop/Methodology) (April 19)
 
+4. [Research Proposal]
+
 
 
  
